@@ -1,8 +1,20 @@
-# Welcome to slolab 👋
+# Biomedical Knowledge Representation and Artifical Intelligence Lab
 
 ## Mission statement
 
-Lorem ipsum
+Our mission is to advance biomedical science through two interconnected efforts:
+
+1. Making Science Accessible: *We enhance access to scientific knowledge and
+computational tools by developing open-source, user-friendly software for
+researchers across disciplines.*
+
+2. Understanding AI in Biomedicine: *We critically examine artificial
+intelligence techniques—from basic linear models to advanced deep learning—to
+understand their strengths and limitations, guiding their effective application
+and improvement.*
+
+By combining these efforts, we aim to empower the research community with the
+tools and insights needed to drive impactful discoveries in biomedical science.
 
 ## Projects
 
