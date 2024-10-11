@@ -6,7 +6,7 @@ and effective.
 
 ## Mission statement
 
-Our mission is to advance biomedical science through two interconnected efforts:
+Our mission is to advance biomedical science by:
 
 1. Making Science Accessible: *We enhance access to scientific knowledge and
 computational tools by developing open-source, user-friendly software for
@@ -17,8 +17,9 @@ intelligence techniques—from basic linear models to advanced deep learning—t
 understand their strengths and limitations, guiding their effective application
 and improvement.*
 
-By combining these efforts, we aim to empower the research community with the
-tools and insights needed to drive impactful discoveries in biomedical science.
+By combining these synergistic angles, we aim to empower the research community
+with the tools and insights needed to drive impactful discoveries in biomedical
+science.
 
 ## Get involved
 
