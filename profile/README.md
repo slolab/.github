@@ -1,4 +1,8 @@
-# Biomedical Knowledge Representation and Artifical Intelligence Lab
+# Accessible Biomedical Artifical Intelligence Research
+
+At the intersection of open science and artificial intelligence (AI), we work to
+make biomedical research more accessible and AI methodologies more transparent
+and effective.
 
 ## Mission statement
 
