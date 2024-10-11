@@ -1,4 +1,4 @@
-# Accessible Biomedical Artifical Intelligence Research
+# Accessible Biomedical AI Research
 
 At the intersection of open science and artificial intelligence (AI), we work to
 make biomedical research more accessible and AI methodologies more transparent
@@ -26,6 +26,14 @@ Like what we're doing? Want to collaborate, contribute, or looking for a job?
 Get in touch!
 
 ## Projects
+
+### The BioCypher ecosystem
+
+### Biases in biomedical machine and deep learning
+
+### Software sustainability - DFG528753569
+
+### Modernising automated knowledge management - OTAR3088
 
 ## Members
 
