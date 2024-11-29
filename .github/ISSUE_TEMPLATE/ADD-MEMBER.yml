@@ -3,21 +3,6 @@ description: Add a new lab member to the overview board.
 title: "[Name]"
 projects: ["slolab/2"]
 body:
-  - type: dropdown
-    id: role
-    attributes:
-      label: Role
-      multiple: false
-      description: Can be any of intern, PhD, Postdoc, Staff, Admin, or PI.
-      options:
-        - Intern
-        - PhD
-        - Postdoc
-        - Staff
-        - Admin
-        - PI
-    validations:
-      required: true
   - type: textarea
     id: research_interests
     attributes:
@@ -37,5 +22,20 @@ body:
     attributes:
       label: Education
       description: A table of the education of the lab member.
+    validations:
+      required: true
+  - type: dropdown
+    id: role
+    attributes:
+      label: Role
+      multiple: false
+      description: Can be any of intern, PhD, Postdoc, Staff, Admin, or PI.
+      options:
+        - Intern
+        - PhD
+        - Postdoc
+        - Staff
+        - Admin
+        - PI
     validations:
       required: true
