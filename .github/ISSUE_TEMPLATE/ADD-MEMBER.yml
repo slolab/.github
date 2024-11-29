@@ -19,16 +19,23 @@ body:
     validations:
       required: true
   - type: textarea
-    id: short_bio
-    attributes:
-      label: Short Bio
-      description: A short bio of the lab member.
-    validations:
-      required: true
-  - type: textarea
     id: research_interests
     attributes:
       label: Research Interests
       description: A paragraph on the research interests of the lab member.
+    validations:
+      required: true
+  - type: textarea
+    id: professional_career
+    attributes:
+      label: Professional Career
+      description: A table of the professional career of the lab member.
+    validations:
+      required: true
+  - type: textarea
+    id: education
+    attributes:
+      label: Education
+      description: A table of the education of the lab member.
     validations:
       required: true
