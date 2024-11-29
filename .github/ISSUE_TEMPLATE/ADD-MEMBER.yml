@@ -11,6 +11,13 @@ body:
     validations:
       required: true
   - type: textarea
+    id: more_info
+    attributes:
+      label: More Information
+      description: An optional paragraph with more information. Fun facts, personal website, etc.
+    validations:
+      required: false
+  - type: textarea
     id: professional_career
     attributes:
       label: Professional Career
