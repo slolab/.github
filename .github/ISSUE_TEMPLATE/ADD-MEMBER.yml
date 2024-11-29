@@ -22,6 +22,13 @@ body:
     attributes:
       label: Professional Career
       description: A table of the professional career of the lab member.
+      placeholder: |
+        | Time Period | Description |
+        | - | - |
+        | 2021-present | Postdoctoral research fellow at Heidelberg University Hospital, Heidelberg, Germany |
+        | 2020-2021 | Postdoctoral research fellow at Goethe-University, Frankfurt, Germany and Hebrew University, Jerusalem, Israel |
+        | 2015-2020 | Research fellow and teaching assistant at Goethe-University, Frankfurt and Hebrew University, Jerusalem |
+        | 2014-2022 | Pharmacist (deputy head), Spessart-Apotheke, Bad Orb, Germany |
     validations:
       required: true
   - type: textarea
@@ -29,6 +36,12 @@ body:
     attributes:
       label: Education
       description: A table of the education of the lab member.
+      placeholder: |
+        | Time Period | Description |
+        | - | - |
+        | 2015-2020 | PhD, Neuro-immune pharmacology, Goethe-University, Frankfurt, Germany |
+        | 2008-2013 | Pharmacy (Licensure), Goethe-University, Frankfurt, Germany |
+        | 2004-2006 | Audio engineer (Diploma), School of Audio Engineering, Frankfurt, Germany |
     validations:
       required: true
   - type: dropdown
