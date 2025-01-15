@@ -53,7 +53,8 @@ to build a knowledge graph for your research project.
 ## Get involved
 
 Like what we're doing? Want to collaborate, contribute, or looking for a job?
-Get in touch!
+Get in touch on our [Zulip](https://biocypher.zulipchat.com) channel, here on
+GitHub, or contact [Sebastian](https://slobentanzer.github.io).
 
 ## How we work
 
