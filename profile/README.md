@@ -34,10 +34,10 @@ Our core principles:
 
 ## 👥 Get Involved
 
-<div align="center">
+<div align="left">
 
-[![Join Chat](https://img.shields.io/badge/Join-Zulip_Chat-brightgreen?style=for-the-badge)](https://biocypher.zulipchat.com)
-[![Contact](https://img.shields.io/badge/Contact-Sebastian-magenta?style=for-the-badge)](https://slobentanzer.github.io)
+[![Join Chat](https://img.shields.io/badge/Join-Zulip_Chat-lightgreen?style=for-the-badge)](https://biocypher.zulipchat.com)
+[![Contact](https://img.shields.io/badge/Contact-Sebastian-lightblue?style=for-the-badge)](https://slobentanzer.github.io)
 
 </div>
 
@@ -84,7 +84,7 @@ Visit our [team overview board](https://github.com/orgs/slolab/projects/2) to me
 
 We are grateful for the support of:
 
-<div align="center">
+<div align="left">
 
 [![Helmholtz](https://img.shields.io/badge/Helmholtz-Munich-violet)](https://helmholtz-muenchen.de)
 [![DZD](https://img.shields.io/badge/DZD-Diabetes-red)](https://dzd-ev.de)
@@ -99,7 +99,7 @@ We are grateful for the support of:
 - [Open Targets Platform](https://platform.opentargets.org)
 
 ### Technical Support
-<div align="center">
+<div align="left">
 
 [![Zulip](https://img.shields.io/badge/Zulip-Chat-blue?style=for-the-badge&logo=zulip)](https://biocypher.zulipchat.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/slolab)
