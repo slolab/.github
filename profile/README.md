@@ -23,10 +23,11 @@ science.
 
 ## Philosophy
 
-We believe in slo science (pun intended), where we approach problems with a
-focus on understanding and sustainability. In today's research landscape, this
-can be counterintuitive; however, we believe that the individual's flexibility
-to explore without pressure is what makes science great.
+We believe in [slo science](https://en.wikipedia.org/wiki/Slow_science) (pun
+intended), where we approach problems with a focus on understanding and
+sustainability. In today's research landscape, this can be counterintuitive;
+however, we believe that the individual's flexibility to explore without
+pressure is what makes science great.
 
 **Reproducibility**: If you're doing something that could be useful to others,
 they need to be able to reproduce it. If it's not useful to others, why are you
