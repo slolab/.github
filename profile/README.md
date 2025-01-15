@@ -21,10 +21,45 @@ By combining these synergistic angles, we aim to empower the research community
 with the tools and insights needed to drive impactful discoveries in biomedical
 science.
 
+## Philosophy
+
+We believe in slo science (pun intended), where we approach problems with a
+focus on understanding and sustainability. In today's research landscape, this
+can be counterintuitive; however, we believe that the individual's flexibility
+to explore without pressure is what makes science great.
+
+**Reproducibility**: If you're doing something that could be useful to others,
+they need to be able to reproduce it. If it's not useful to others, why are you
+doing it? In the business of code, this usually means packaging and good
+documentation.
+
+**Embracing AI**: Generative AI is a tool like any other, with potential,
+limitations, and quirks. Like many other tools, understanding applied AI
+theoretically is very challenging. Therefore, we embrace AI as a tool in many
+aspects of our work, trying to benefit from its time-saving potential while
+remaining critical of its outputs, and in this way understanding it better.
+
+**Infrastructure**: Many a day in science is spent doing things manually that
+could be automated. Data discovery, preprocessing, cleaning, and integration,
+all could be done much more efficiently with dedicated tools.
+
+**Accessibility**: We believe that science should be accessible to everyone. For
+instance, you should not require a dedicated knowledge engineer, or even a team,
+to build a knowledge graph for your research project.
+
+<!-- shorten and link to dedicated page, add open source considerations, outreach, systemic incentives, academic publishing vs software sustainability, community engagement in the academic setting, falsification perspective -->
+
 ## Get involved
 
 Like what we're doing? Want to collaborate, contribute, or looking for a job?
 Get in touch!
+
+## How we work
+
+We have noticed that the ideal of open source software is not always aligned
+with the reality of academic work. We have created a
+[guide][OPEN_SCIENCE_GUIDE.md] to help researchers and developers navigate the
+open science landscape.
 
 ## People
 
@@ -72,6 +107,16 @@ downstream machine learning frameworks, including accessibility-improving Large
 Language Models.
 
 ## Funding
+
+Our group is funded collaboratively by [Helmholtz
+Munich](https://helmholtz-muenchen.de) and [The German Centre for Diabetes
+Research](https://dzd-ev.de). We are further grateful for the support of the
+following organisations:
+
+- [DFG](https://www.dfg.de)
+- [Open Targets](https://opentargets.org)
+- [Zulip](https://zulip.com)
+- [Docker](https://docker.com)
 
 <!--
 
