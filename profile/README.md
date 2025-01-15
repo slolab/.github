@@ -58,7 +58,7 @@ Get in touch!
 
 We have noticed that the ideal of open source software is not always aligned
 with the reality of academic work. We have created a
-[guide][OPEN_SCIENCE_GUIDE.md] to help researchers and developers navigate the
+[guide](OPEN_SCIENCE_GUIDE.md) to help researchers and developers navigate the
 open science landscape.
 
 ## People
