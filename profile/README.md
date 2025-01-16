@@ -1,4 +1,4 @@
-# 🔓🧬💻🔍 Accessible Biomedical AI Research
+# 🔓🧬🤖🔍 Accessible Biomedical AI Research
 
 <div align="center">
 
