@@ -72,40 +72,50 @@ An [Open Targets](https://opentargets.org)-funded project modernizing knowledge 
 - 🤖 ML framework integration
 - 🗣️ LLM accessibility enhancement
 
-## 📚 Resources
+## 🔧 Open Source and Open Science
 
-### 🔧 Open Source and Open Science
-Check out our [open science guide](OPEN_SCIENCE_GUIDE.md) for navigating the intersection of academic work and open-source software.
+We believe in the power of open collaboration! Check out our comprehensive [open science guide](OPEN_SCIENCE_GUIDE.md) to learn how we navigate the intersection of academic research and open-source development.
 
-### 👥 Our Team
+### 🤝 Community Contributions
+
+We actively contribute to these open-source projects:
+
+| Project | Focus | Our Involvement |
+|---------|-------|-----------------|
+| [🔗 BioCypher](https://biocypher.org) | Scientific Knowledge Management | Infrastructure, Tool Development & Documentation |
+| [🎯 Open Targets](https://www.opentargets.org) | Drug Target Discovery | Platform Development & Knowledge Integration |
+| [🐍 PyOpenSci](https://pyopensci.org) | Scientific Python Ecosystem | Infrastructure, Package Reviews & Development |
+| [📊 scverse](https://scverse.org) | Single-Cell Analysis | Tool Development & Documentation |
+| [🧬 Bioconductor](https://bioconductor.org) | R Bioinformatics Framework | Accessibility & Cloud Infrastructure |
+
+## 👥 Our Team
+
 Visit our [team overview board](https://github.com/orgs/slolab/projects/2) to meet our interdisciplinary researchers and developers.
 
 ## 💰 Funding, Community & Support
 
 We are grateful for the support of:
 
-<div align="left">
-
 [![Helmholtz](https://img.shields.io/badge/Helmholtz-Munich-violet)](https://helmholtz-muenchen.de)
 [![DZD](https://img.shields.io/badge/DZD-Diabetes-red)](https://dzd-ev.de)
 [![DFG](https://img.shields.io/badge/DFG-Research-yellow)](https://www.dfg.de)
 [![Open Targets](https://img.shields.io/badge/Open-Targets-blue)](https://opentargets.org)
 
-</div>
-
 ### Development Partners
+
 - [Saez-Rodriguez group](https://saezlab.org)
-- [BioCypher Community](https://github.com/biocypher)
-- [Open Targets Platform](https://platform.opentargets.org)
+- [Open Targets](https://opentargets.org)
+- [Heidelberg University Scientific Software Center](https://www.ssc.uni-heidelberg.de/en)
+- [ChEMBL](https://www.ebi.ac.uk/chembl/)
+- [Europe PMC](https://europepmc.org)
+- [EMBO](https://www.embo.org)
+- [The Francis Crick Institute](https://www.crick.ac.uk)
 
 ### Technical Support
-<div align="left">
 
 [![Zulip](https://img.shields.io/badge/Zulip-Chat-blue?style=for-the-badge&logo=zulip)](https://biocypher.zulipchat.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/slolab)
 [![Docker](https://img.shields.io/badge/Docker-Infrastructure-blue?style=for-the-badge&logo=docker)](https://docker.com)
-
-</div>
 
 ---
 
