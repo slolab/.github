@@ -1,4 +1,4 @@
-# 🔓🧬🤖🔍 Accessible Biomedical AI Research
+# 🧬 Accessible Biomedical AI Research
 
 <div align="center">
 
@@ -74,7 +74,7 @@ An [Open Targets](https://opentargets.org)-funded project modernizing knowledge 
 
 ## 🔧 Open Source and Open Science
 
-We believe in the power of open collaboration! Check out our comprehensive [open science guide](OPEN_SCIENCE_GUIDE.md) to learn how we navigate the intersection of academic research and open-source development.
+We believe in the power of open collaboration! Check out our [open science guide](OPEN_SCIENCE_GUIDE.md) to learn how we navigate the intersection of academic research and open-source development.
 
 ### 🤝 Community Contributions
 
@@ -88,9 +88,9 @@ We actively contribute to these open-source projects:
 | [📊 scverse](https://scverse.org) | Single-Cell Analysis | Tool Development & Documentation |
 | [🧬 Bioconductor](https://bioconductor.org) | R Bioinformatics Framework | Accessibility & Cloud Infrastructure |
 
-## 👥 Our Team
+<!-- ## 👥 Our Team
 
-Visit our [team overview board](https://github.com/orgs/slolab/projects/2) to meet our interdisciplinary researchers and developers.
+Visit our [team overview board](https://github.com/orgs/slolab/projects/2) to meet our interdisciplinary researchers and developers. -->
 
 ## 💰 Funding, Community & Support
 
