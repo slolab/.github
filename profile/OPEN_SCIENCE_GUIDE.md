@@ -10,6 +10,16 @@ outcomes for individual researchers and the scientific community as a whole.
 > Go to the [Discussion](https://github.com/orgs/slolab/discussions/2) to chime
 > in!
 
+## Table of Contents
+
+- [Open source software in academia](#open-source-software-in-academia)
+- [How we work](#how-we-work)
+  - [Increase reliance on existing software](#increase-reliance-on-existing-software)
+  - [Contributing smaller packages to an existing ecosystem](#contributing-smaller-packages-to-an-existing-ecosystem)
+  - [Using templates to get a head start](#using-templates-to-get-a-head-start)
+  - [Sprints and hackathons](#sprints-and-hackathons)
+- [The EU Cyber Resilience Act](#the-eu-cyber-resilience-act)
+
 ## Open source software in academia
 
 Open source software is a cornerstone of modern scientific work. It allows
@@ -90,3 +100,26 @@ this process is a shift in mentality, from the traditional scientific project
 approach. Think of it as an analog of short-lived feature branches in software
 development: the results of the sprint are merged back into the main research
 project, which facilitates development and does not change the ultimate goal.
+
+## The EU Cyber Resilience Act
+
+The Cyber Resilience Act (CRA) is a regulation to improve the cybersecurity of
+software products in the EU market. While it primarily targets commercial
+software and IoT devices, it has important implications for open source
+software. There is hope that most individual open source contributors won't
+be affected—the CRA mainly applies to commercial activities and places
+responsibility on companies that benefit from open source, not on the volunteer
+contributors themselves.
+
+However, maintainers of open-source projects may have to comply with the CRA, or
+at least be knowledgeable about [what it
+entails](https://github.blog/open-source/maintainers/what-the-eus-new-software-legislation-means-for-developers/).
+As such, there is concrete risk that it will negatively impact contributions to
+open source software. Individual researchers and small teams may not be able to
+afford the time and resources to comply, which makes it a good example of how
+larger organisations can help the community by providing guidance, support, and
+resources like templates and workflows.
+
+The CRA will come into effect in 2027, with some provisions starting in 2026.
+While there still is time to prepare, it is important to start thinking about
+these issues now.
