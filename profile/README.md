@@ -8,8 +8,6 @@
 
 ## 🎯 Mission Statement
 
-Our mission is to advance biomedical science by:
-
 ### 🔓 Making Science Accessible
 *We enhance access to scientific knowledge and computational tools by developing open-source, user-friendly software for researchers across disciplines.*
 
